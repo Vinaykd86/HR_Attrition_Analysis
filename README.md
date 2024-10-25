@@ -1,6 +1,6 @@
 # HR_Attrition_Analysis
 
-![Hr](https://github.com/user-attachments/assets/82517fe3-d35a-4fac-9b7d-c15eb38de2c0)
+![HR_Dashboard](https://github.com/user-attachments/assets/253987ce-6651-42c2-8dac-3ce3b5e518a2)
 
 Project Overview:
 
